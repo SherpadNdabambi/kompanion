@@ -1,0 +1,31 @@
+[
+  {
+    "equipment-id": 1,
+    "equipment-character": 1,
+    "equipment-name": "Acid Dragon's Deadly Vial",
+    "equipment-event": "Sorcerer's Tower",
+    "equipment-kombat-effects": ["bleed", "poison", "power"],
+    "equipment-tags": [
+      "Brutality",
+      "power drain resistance",
+      "power gain",
+      "power generation boost"
+    ],
+    "equipment-passives": [
+      "10-% Power generation boost.",
+      "40-% Change to gain 7% max Power for all teammates after the user successfully applies Poison or Bleed to an opponent.",
+      "75-% Damage boost. Sorcerer's Tower only.",
+      "100-% Max Health boost. Sorcerer's Tower only.",
+      "[REPTILE] Basic attacks heal for 20-% of damage done to opponents affected by Poison.",
+      "[REPTILE] [SET] If this is equipped alongside Acid Dragon's Tekko-Kagi, any DIAMOND Reptile gains 40% chance to perform a Special Combo Ender dealing massive damage. If the last opponent is under 25% health, a Brutality is performed instead of  the Special Combo Ender, ending the fight immediately.",
+      "Power Drain applied to the owner is reflected onto an opponent and is turned into Power Steal that grants 50% of draining Power. (Unlocks at fusion level X)"
+    ],
+    "equipment-rarity": "epic",
+    "equipment-set": 1,
+    "equipment-type": "ring"
+  },
+  {
+    "equipment-id": 2,
+    "equipment-name": "Acid Dragon's Tekko-Kagi"
+  }
+]
